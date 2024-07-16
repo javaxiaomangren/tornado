@@ -37,3 +37,4 @@ pkginfo==1.2.1
 py==1.4.26
 requests==2.5.1
 zope.interface==4.1.2
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
